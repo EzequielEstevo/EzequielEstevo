@@ -2,7 +2,8 @@
 
 **`PORTFÓLIO`**
 
-Me chamo Ezequiel Estevo, tenho 18 anos. Concluí o ensino médio na Escola Celsa(Centro de Ensino Luiz Sabry Azar). Atualmente, estou estudando HTML e CSS. Sou apaixonado por tecnologia venha me conhecer"[linkedIn](www.linkedin.com/in/ezequielestevo)
+Me chamo Ezequiel Estevo, tenho 18 anos. Concluí o ensino médio na Escola Celsa(Centro de Ensino Luiz Sabry Azar). Atualmente, estou estudando HTML e CSS. Sou apaixonado por tecnologia.
+Venha me conhecer"[linkedIn](www.linkedin.com/in/ezequielestevo)
 
 <p align="left">
     <a href="https://github.com/EzequielEstevo?tab=repositories&sort=stargazers">
