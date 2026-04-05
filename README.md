@@ -1,7 +1,7 @@
 # 👩🏻‍💻 EZEQUIEL_ESTEVO
 
 **`PORTFÓLIO`**
-Me chamo Ezequiel Estevo, tenho 18 anos e sou apaixonado por tecnologia. Concluí o Ensino Médio na Escola Celsa (Centro de Ensino Luiz Sabry Azar) e, atualmente, estou me dedicando aos estudos de HTML e CSS, dando meus primeiros passos no mundo do desenvolvimento web.
+Me chamo Ezequiel Estevo, tenho 19 anos e sou apaixonado por tecnologia. Concluí o Ensino Médio na Escola Celsa (Centro de Ensino Luiz Sabry Azar) e, atualmente, estou me dedicando aos estudos de HTML e CSS, dando meus primeiros passos no mundo do desenvolvimento web.
         **Evoluindo todos os dias**
 
 <p align="left">
@@ -45,14 +45,3 @@ Me chamo Ezequiel Estevo, tenho 18 anos e sou apaixonado por tecnologia. Conclu�
 <br/>
 <br/>
 
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=EzequielEstevo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
- 
-</p>
