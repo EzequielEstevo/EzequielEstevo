@@ -1,11 +1,5 @@
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-</div>
+<h4 align="left">Estou iniciando minha carreira na área de tecnologia, com foco em desenvolvimento web. Tenho conhecimentos em HTML e CSS para criação e estruturação de páginas, além de experiência com sistemas Linux, como Ubuntu, Kali Linux e Arch Linux, e também com ambientes Windows. Também tenho experiência prática em vendas e operação de caixa, lidando com atendimento ao cliente, organização e controle de processos no dia a dia. Sou organizado, tenho facilidade para aprender novas ferramentas e busco evoluir constantemente na área de tecnologia, contribuindo com bons resultados e crescimento profissional.</h4>
 
 ###
 
@@ -31,16 +25,18 @@
 
 ###
 
-<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXkwd3pxcGN3d2V5dHdhNnFyYnoyd3Nidzh5a3FoZG56NGJmYmhqcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GkD4U3VfiIbzcBhQNu/giphy.gif"  />
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+</div>
 
 ###
 
-<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRmM2g5bnpid2htajh6YTg3N2FrZW5zZWw2OXd0aTVlcmJqa3F4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/go3pCPP4899Jd3xb4p/giphy.gif"  />
-
-###
-
-<br clear="both">
-
-<h4 align="left">Estou iniciando minha carreira na área de tecnologia, com foco em desenvolvimento web. Tenho conhecimentos em HTML e CSS para criação e estruturação de páginas, além de experiência com sistemas Linux, como Ubuntu, Kali Linux e Arch Linux, e também com ambientes Windows. Também tenho experiência prática em vendas e operação de caixa, lidando com atendimento ao cliente, organização e controle de processos no dia a dia. Sou organizado, tenho facilidade para aprender novas ferramentas e busco evoluir constantemente na área de tecnologia, contribuindo com bons resultados e crescimento profissional.</h4>
+<div align="center">
+  <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXkwd3pxcGN3d2V5dHdhNnFyYnoyd3Nidzh5a3FoZG56NGJmYmhqcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GkD4U3VfiIbzcBhQNu/giphy.gif"  />
+</div>
 
 ###
