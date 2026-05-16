@@ -16,14 +16,6 @@ Atualmente, estou focado em evoluir minhas habilidades em JavaScript e desenvolv
 
 ---
 
-### 📊 Estatísticas
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EzequielEstevo&show_icons=true&theme=dracula&locale=pt-br" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzequielEstevo&layout=compact&theme=dracula&locale=pt-br" height="150"/>
-</div>
-
----
-
 ### 🌐 Contato
 <div align="left">
   <a href="mailto:ezequielestevo00@gmail.com">
