@@ -1,46 +1,77 @@
+# Olá 👋, sou Ezequiel Estevo
 
-<h2 align="center">🚀 Ezequiel Estevo</h2>
+**Desenvolvedor Web | HTML, CSS, JavaScript**  
+🇧🇷 Brasil
 
-<p align="center">
-Desenvolvedor Web em evolução | HTML • CSS • JavaScript  
+Desenvolvo **sites modernos**, **landing pages** e **interfaces responsivas**, sempre buscando unir desempenho, organização e uma boa experiência para o usuário.
+
+Atualmente, estou aprofundando meus conhecimentos em **HTML**, **CSS**, **JavaScript** e nas aplicações da **Inteligência Artificial no desenvolvimento web**, criando projetos que transformam ideias em soluções digitais.
+
+Tenho facilidade com tecnologia, gosto de aprender continuamente e valorizo práticas como **código limpo**, **resolução de problemas** e **evolução constante**.
+
+🎯 Meu objetivo é crescer como desenvolvedor, construir projetos cada vez mais completos e contribuir para a criação de experiências digitais de qualidade.
+
+---
+
+## 🌐 Onde me encontrar
+
+<p align="left">
+  <a href="https://github.com/EzequielEstevo">
+    <img src="https://img.shields.io/badge/GitHub-Ezequiel%20Estevo-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.instagram.com/zack_devz">
+    <img src="https://img.shields.io/badge/Instagram-@zack__devz-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ezequielestevo?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+    <img src="https://img.shields.io/badge/LinkedIn-Ezequiel%20Estevo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
+## 🧠 O que faço
+
+- 🌐 Desenvolvimento de sites e landing pages
+- 🎨 Criação de interfaces responsivas
+- ⚡ Otimização de desempenho web
+- 📱 Experiência do usuário (UX/UI)
+- 🤖 Integração de Inteligência Artificial em projetos
+- 🛠️ Desenvolvimento com HTML, CSS e JavaScript
+- 🚀 Construção de portfólios e projetos modernos
+- 📚 Aprendizado contínuo e evolução tecnológica
 
 ---
 
-### 💼 Sobre mim
-Estou iniciando minha carreira em tecnologia com foco em desenvolvimento web. Tenho experiência na criação e estruturação de páginas utilizando HTML e CSS, além de familiaridade com ambientes Linux (Ubuntu, Kali Linux e Arch Linux) e Windows.
+## 🛠️ Tecnologias
 
-Também possuo experiência com atendimento ao cliente, vendas e operação de caixa, desenvolvendo habilidades como comunicação, organização e resolução de problemas.
+### Front-End
 
-Atualmente, estou focado em evoluir minhas habilidades em JavaScript e desenvolvimento front-end, buscando oportunidades para gerar valor e crescer profissionalmente.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+
+### Ferramentas
+
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+### Inteligência Artificial
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge)
 
 ---
 
-### 🌐 Contato
-<div align="left">
-  <a href="mailto:ezequielestevo00@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-contato-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ezequielestevo">
-    <img src="https://img.shields.io/badge/LinkedIn-perfil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://wa.me/5598986240028">
-    <img src="https://img.shields.io/badge/WhatsApp-contato-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
-</div>
+## 🚀 Filosofia
+
+> _"A excelência não é um ato, mas o resultado de pequenas melhorias realizadas todos os dias."_
 
 ---
 
-### 🛠️ Tecnologias
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"/>
-</div>
-<div align="center">
-  <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXkwd3pxcGN3d2V5dHdhNnFyYnoyd3Nidzh5a3FoZG56NGJmYmhqcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GkD4U3VfiIbzcBhQNu/giphy.gif"  />
-</div>
+⭐ Se algum projeto foi útil, considere deixar uma estrela.
 
-###
+🤝 Sempre aberto a conexões, colaborações e troca de conhecimento.
+
+🚀 Construindo o futuro através da tecnologia, disciplina e aprendizado contínuo.
